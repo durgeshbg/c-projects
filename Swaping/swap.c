@@ -7,7 +7,7 @@ int main (void)
     int b = get_int("Second number: ");                               //Second number
     int temp;                                                         //Temorary variable
     
-    temp = a;                                                         //Swaping the two number
+    temp = a;                                                         //Swaping the two numbers
     a = b;
     b = temp;
 
