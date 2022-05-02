@@ -8,5 +8,3 @@ int main (void)
     printf("Welcome %s!\n", name);
     return 0;
 }
-
-

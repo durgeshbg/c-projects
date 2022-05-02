@@ -34,4 +34,3 @@ int main (void)
         printf("\n");                 //Changes row after filling it with 'n-a' no. of '#'s and 'a' no. of ' 's 
     }
 }
-
